@@ -20,4 +20,4 @@ $ docker exec -it dockerjenkins_master_1 cat /var/jenkins_home/secrets/initialAd
 
 ---
 
-Tags: devops, docker, jenkins
+Tags: devops, docker, jenkins, maven
