@@ -2,7 +2,7 @@ version: '2'
 services:
   master:
     build: .
-    image: jarfernandez/jenkins:latest
+    image: aprenderdevops/jenkins:latest
     restart: unless-stopped
     hostname: jenkins
     ports:
